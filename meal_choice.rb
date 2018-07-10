@@ -21,7 +21,11 @@ def breakfast (food = "frosted flakes")
   "Morning is the best time for #{food}."
 end
 
-def lunch (food = )
+def lunch (food = "grilled cheese")
+  "Noon is the best time for #{food}."
+end
+
+def dinner (food = "salmon")
 
 
 
