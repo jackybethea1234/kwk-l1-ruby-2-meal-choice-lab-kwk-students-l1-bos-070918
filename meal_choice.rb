@@ -29,9 +29,9 @@ def dinner (food="salmon")
   "Evening is the best time for #{food}."
 end
 
-puts breakfast (food)
-puts lunch (food)
-puts dinner (food)
+puts breakfast
+puts lunch 
+puts dinner 
 
 
 # Call your methods without any arguments here
